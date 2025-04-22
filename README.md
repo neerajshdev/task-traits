@@ -16,7 +16,7 @@ Defining each action via a task allows us easy modications on code.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/task-traits.git
+git clone https://github.com/neerajshdev/task-traits.git
 cd task-traits
 ```
 
